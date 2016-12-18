@@ -43,7 +43,7 @@ This draws a nice parallel with data-oriented design, where the data is the core
 ### Time based events
 
 Frequent, time-based interactions between executives and engineers are one of the best way to crash a company.  
-Having a meeting once in a week/month or other indicator based soley on time is meaningless. It conveys the idea that all the tasks are the same, that all progress must be at a steady pace.
+Having a meeting once in a week/month or other indicator based solely on time is meaningless. It conveys the idea that all the tasks are the same, that all progress must be at a steady pace.
 It's also an excellent way to focus more on immediate results than on the long term goals.
 
 Interactions between executives and engineers must be limited in terms of number and frequency.  
