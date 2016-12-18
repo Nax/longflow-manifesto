@@ -102,7 +102,7 @@ Denying their right to learn will hinder the ability of developers to improve an
 A typical implementation of the longflow manifesto, from the point of view of an engineer, is something like this:
 
  1. I pick or create a task.  
- 2. I spent a few minutes/hours/days thinking about the task. Do we need it? Have I done something similar before? What does the task achieves?  
+ 2. I spent a few minutes/hours/days thinking about the task. Do we need it? Have I done something similar before? What does the task achieve?  
  3. If the task turns out to be unneeded, go back to 1.  
  4. If I need to learn something to do the task, I go learn it.  
  5. If I *want* to learn something new, I go learn it too.  
