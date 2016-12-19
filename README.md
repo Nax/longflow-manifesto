@@ -23,9 +23,9 @@ On the other hand, good refactoring can use a moderate amount of time for expone
 
 This is the key principle of the longflow methodology: **everything has to be done with long-term goals in mind**.
 
-That does not mean no prototyping.  
-That does not mean premature optimization.  
-That does mean quality has a price: time.
+That does *not* mean no prototyping.
+That does *not* mean premature optimization.
+That *does* mean quality has a price: time.
 
 ### Estimates
 
