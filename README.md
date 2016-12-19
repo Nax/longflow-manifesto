@@ -12,7 +12,7 @@ The longflow model is an engineering-centric workflow for serious software devel
 ### Time and Work
 
 In the software industry, like in every industry, a business owner does not sell time. A business owner sells a product.
-However, a software developer does sell his time.
+However, a software developer bills time worked.
 
 Somewhere, time must be transformed into improvements to the product.
 The action of applying this transformation to time is called work.
