@@ -21,11 +21,11 @@ However, the relation between time spent and work done is absolutely *not* linea
 Premature optimization, for example, is a good candidate for a log-like relation, where more and more time is being invested for less and less benefits.
 On the other hand, good refactoring can use a moderate amount of time for exponential returns over a long period of time.
 
-This is the key principle of the longflow methodology : **everything has to be done with long-term goals in mind**.
+This is the key principle of the longflow methodology: **everything has to be done with long-term goals in mind**.
 
 That does not mean no prototyping.  
 That does not mean premature optimization.  
-That does mean quality has a price : time.
+That does mean quality has a price: time.
 
 ### Estimates
 
@@ -38,9 +38,9 @@ It is often impossible to split a task into meaningful smaller ones, even more s
 Just like it may be impossible to split a function into meaningful smaller ones, when such function is already coherent and provides a self-contained service.
 
 Have the workflow match the project, not the other way around.  
-This draws a nice parallel with data-oriented design, where the data is the core and the logic have to match it.  
+This draws a nice parallel with data-oriented design, where the data is the core and the logic has to match it.  
 
-### Time based events
+### Time-based events
 
 Frequent, time-based interactions between executives and engineers are one of the best way to crash a company.  
 Having a meeting once in a week/month or other indicator based solely on time is meaningless. It conveys the idea that all the tasks are the same, that all progress must be at a steady pace.
@@ -109,10 +109,10 @@ A typical implementation of the longflow manifesto, from the point of view of an
  6. I think about the task again. I may go back to 4 or 1 if the things I learned changed my mind about the task.  
  7. I work on the task. I may go back to 2 at any point.  
  8. I finish the task.  
- 9. I think about the task again. I may want to go back at 2.  
+ 9. I think about the task again. I may want to go back to 2.  
  10. The task is now considered done, but I (or someone else) can decide to work on it at any time, going back to 2.  
 
-It may seems messy at first, but a workflow like this is both extremely flexible and extremely good in terms of quality of the code produced, because everyone can improve any part of the codebase whenever they want.
+It may seem messy at first, but a workflow like this is both extremely flexible and extremely good in terms of quality of the code produced, because everyone can improve any part of the codebase whenever they want.
 
 ## Author
 
