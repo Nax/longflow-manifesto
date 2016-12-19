@@ -54,7 +54,7 @@ Micro-management should be avoided at all costs, because it creates interference
 *Rushes, sprints, crunch-time, etc. are toxic and dangerous.*
 
 Quality is infinitely superior to quantity. Software engineers aim to produce working, beautiful, readable code.  
-By forcing deadline upon them, they are encouraged to produce "the least dysfunctional" code instead of "the best possible" code.
+By forcing deadlines upon them, they are encouraged to produce "the least dysfunctional" code instead of "the best possible" code.
 The longflow methodology advocates having medium to large sized meaningful tasks, self-assigned whenever possible, where developers can leverage both technical and problem-solving skills.
 Have developers write no code at first, but simply think about how they can solve the problem. Or, better yet, asking themselves questions like:
 
@@ -80,7 +80,7 @@ Denying their right to learn will hinder the ability of developers to improve an
  * Don't micro-manage.
  * Don't interfere with engineers more than strictly required.
  * Never rush, always think and plan ahead.
- * Don't fear to fail.
+ * Don't fear failure.
  * Avoid cargo-cults like the plague.
 
 ### Technical
