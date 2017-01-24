@@ -53,7 +53,7 @@ Micro-gerenciamento deve ser evitado à todo custo, porque cria interferências 
 
 *Maratonas, sprints, etc são tóxicos e perigosos.*
 
-Qualidade é infinitamente superior à qualidade. Engenheiros de software almejam produzir código legível, bonito e que funciona.
+Qualidade é infinitamente superior à quantidade. Engenheiros de software almejam produzir código legível, bonito e que funciona.
 Ao forçar datas de entrega à eles, eles são encorajados à produzir o código "menos pior" ao invés do código "melhor possível".
 A metodologia longflow advoca ter tarefas significativas médias ou grandes, auto-definidas sempre que possível, na qual desenvolvedores podem utilizar tanto suas habilidades técnicas quanto resolução de problemas.
 Faça desenvolvedores não escrever código primeiro, mas simplesmente pensar em como eles podem resolver o problema. Ou até melhor, faça-os perguntar internamente:
